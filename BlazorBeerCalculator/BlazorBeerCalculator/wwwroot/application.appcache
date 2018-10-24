@@ -1,0 +1,28 @@
+CACHE MANIFEST
+CACHE:
+/index.html
+/_framework/blazor.webassembly.js
+/css/bootstrap/bootstrap.min.css
+/css/bootstrap/bootstrap.min.css.map
+/css/site.css
+/css/open-iconic/font/css/open-iconic-bootstrap.min.css
+/_framework/blazor.boot.json
+/_framework/wasm/mono.js
+/_framework/wasm/mono.wasm
+/favicon.ico
+/_framework/_bin/BlazorBeerCalculator.dll
+/_framework/_bin/BlazorBeerCalculator.pdb
+/_framework/_bin/Microsoft.AspNetCore.Blazor.Browser.dll
+/_framework/_bin/Microsoft.AspNetCore.Blazor.dll
+/_framework/_bin/Microsoft.AspNetCore.Blazor.TagHelperWorkaround.dll
+/_framework/_bin/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/_framework/_bin/Microsoft.Extensions.DependencyInjection.dll
+/_framework/_bin/Microsoft.JSInterop.dll
+/_framework/_bin/Mono.WebAssembly.Interop.dll
+/_framework/_bin/mscorlib.dll
+/_framework/_bin/System.Core.dll
+/_framework/_bin/System.dll
+/_framework/_bin/System.Net.Http.dll
+/css/open-iconic/font/fonts/open-iconic.woff
+FALLBACK:
+/ /index.html
