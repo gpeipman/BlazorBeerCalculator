@@ -1,0 +1,29 @@
+CACHE MANIFEST
+CACHE:
+/demos/blazoroffline/index.html
+/demos/blazoroffline/_framework/blazor.webassembly.js
+/demos/blazoroffline/css/bootstrap/bootstrap.min.css
+/demos/blazoroffline/css/bootstrap/bootstrap.min.css.map
+/demos/blazoroffline/css/site.css
+/demos/blazoroffline/css/open-iconic/font/css/open-iconic-bootstrap.min.css
+/demos/blazoroffline/_framework/blazor.boot.json
+/demos/blazoroffline/_framework/wasm/mono.js
+/demos/blazoroffline/_framework/wasm/mono.wasm
+/demos/blazoroffline/favicon.ico
+/demos/blazoroffline/_framework/_bin/BlazorBeerCalculator.dll
+/demos/blazoroffline/_framework/_bin/BlazorBeerCalculator.pdb
+/demos/blazoroffline/_framework/_bin/Microsoft.AspNetCore.Blazor.Browser.dll
+/demos/blazoroffline/_framework/_bin/Microsoft.AspNetCore.Blazor.dll
+/demos/blazoroffline/_framework/_bin/Microsoft.AspNetCore.Blazor.TagHelperWorkaround.dll
+/demos/blazoroffline/_framework/_bin/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/demos/blazoroffline/_framework/_bin/Microsoft.Extensions.DependencyInjection.dll
+/demos/blazoroffline/_framework/_bin/Microsoft.JSInterop.dll
+/demos/blazoroffline/_framework/_bin/Mono.WebAssembly.Interop.dll
+/demos/blazoroffline/_framework/_bin/mscorlib.dll
+/demos/blazoroffline/_framework/_bin/System.Core.dll
+/demos/blazoroffline/_framework/_bin/System.dll
+/demos/blazoroffline/_framework/_bin/System.Net.Http.dll
+/demos/blazoroffline/css/open-iconic/font/fonts/open-iconic.woff
+FALLBACK:
+/demos/blazoroffline /demos/blazoroffline/index.html
+/demos/blazoroffline/ /demos/blazoroffline/index.html
